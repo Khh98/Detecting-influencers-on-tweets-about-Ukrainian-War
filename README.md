@@ -7,4 +7,4 @@
  3. We looked over the  best hashtags used and integrated **KNN** machine learning model to check how the influencers are classified.
 Kindly note that each influencer has a notebook ipynb file
 * `Influencers.csv:` A csv file of the tweets gathered plus all the new columns added like postive and negative score of each influencer's tweet
-* `Twiiter virality:` After we gathered all the analysis, we explained the word done through a power-point presentation and we sum-up by picking the **most influential** one over the 12 persons that we chose.
+* `Twiiter virality:` After we gathered all the analysis, we explained the work done through a power-point presentation and we sum-up by picking the **most influential** one over the 12 persons that we chose.
